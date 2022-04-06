@@ -1,4 +1,3 @@
-Login.jsp
 <html>
 <head>
 <title>Login Form</title>
