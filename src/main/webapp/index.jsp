@@ -1,4 +1,3 @@
-login.jsp
 <html>
 <head>
 <title>Login Form</title>
@@ -19,4 +18,3 @@ login.jsp
                  <input type="submit" value="Login" /></form>
 </body>
 </html>
-
